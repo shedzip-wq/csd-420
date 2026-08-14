@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run PetCards",
+      "request": "launch",
+      "mainClass": "PetCards",
+      "vmArgs": "--module-path C:/javafx-sdk-17.0.19/lib --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
